@@ -11,6 +11,7 @@ f) 2,10, 12, 16, 17, 18, 19, 20
 2. Desligaria o primeiro interruptor e ligaria o segundo;
 3. Iria até a sala das lâmpadas;
 Analisando as lâmpadas, posso concluir que:
+
 A lâmpada que estiver acesa corresponde ao segundo interruptor;
 A lâmpada apagada que estiver quente corresponde ao primeiro interruptor;
 A lâmpada apagada e fria corresponde ao terceiro interruptor.
